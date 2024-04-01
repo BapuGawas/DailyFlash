@@ -12,32 +12,6 @@ class Question05 extends StatelessWidget{
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 FractionallySizedBox(
-                  widthFactor: 0.5,
-                  child: Container(
-                    height: 100,              
-                    color: Colors.blue,
-                  ),
-                ),
-                FractionallySizedBox(
-                  widthFactor: 0.4,
-                  child: Container(
-                    height: 100,
-                    color: Colors.red,
-                  ),
-                ),
-                FractionallySizedBox(
-                  widthFactor: 0.1,
-                  child: Container(
-                    height: 100,
-                    color: Colors.orange,
-                  ),
-                ),
-              ],
-            ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                FractionallySizedBox(
                   widthFactor: 0.7,
                   child: Container(
                     height: 100,              
